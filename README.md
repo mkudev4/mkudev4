@@ -7,7 +7,7 @@
 <br clear="both">
 
 <div data-importer="socials" align="center">
-  <a href="mailto:markyyulip27@gmail.com" target="_blank">
+    <a href="mailto:markyyulip27@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=000000&logoColor=white&labelColor=000000&style=plastic" height="15" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/mark-jayson-ulip-45b439257" target="_blank">
@@ -27,7 +27,7 @@
 
 ###
 
-<p data-importer="text" align="center">I am a dedicated Web Developer and QA Tester focused on engineering high-quality digital products from concept to deployment. My expertise lies in bridging the gap between functional design and technical execution, ensuring web applications are not only visually engaging but also thoroughly tested for performance and stability.<br><br>Beyond my core professional focus, I actively engage in indie game development. This pursuit refines my skills in interactive logic, complex problem solving, and optimization capabilities that directly enhance my corporate development work. I thrive in collaborative environments where technical precision and creative execution are highly valued.</p>
+<p data-importer="text" align="center">Hi! I am Mark Jayson, a dedicated Web Developer and QA Tester focused on engineering high-quality digital products from concept to deployment. My expertise lies in bridging the gap between functional design and technical execution, ensuring web applications are not only visually engaging but also thoroughly tested for performance and stability.<br><br>Beyond my core professional focus, I actively engage in indie game development. This pursuit refines my skills in interactive logic, complex problem solving, and optimization capabilities that directly enhance my corporate development work. I thrive in collaborative environments where technical precision and creative execution are highly valued.</p>
 
 ###
 
@@ -67,8 +67,18 @@
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=mkudev4&locale=en&mode=daily&theme=graywhite&hide_border=false&border_radius=5&order=3" height="300" alt="streak graph"  />
-</div>
+<table>
+<tr>
+  <td>
+    
+  ![](https://github-readme-stats.shion.dev/api?username=mkudev4&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
+  </td>
+  <td>
+
+   ![](https://streak-stats.demolab.com/?user=mkudev4&theme=dark&hide_border=true)  
+  </td>
+</tr>
+</table>
+</section>
 
 ###
